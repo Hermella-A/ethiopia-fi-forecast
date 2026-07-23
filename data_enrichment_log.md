@@ -66,6 +66,7 @@
 
 ### 5. Next Steps
 
-- Task 2: Event Impact Analysis
-- Build intervention regression model
-- Quantify event impacts on inclusion indicators
+- Task 2: Exploratory Data Analysis
+- Task 3: Event Impact Modeling
+- Task 4: Forecasting
+- Task 5: Dashboard Development
